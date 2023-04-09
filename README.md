@@ -1,20 +1,14 @@
-# flutter_application_1
+# Flutter Compound Interest Calculator
 
-A new Flutter project.
+My first flutter project using TextField
 
-## Getting Started
+## TextField
 
-This project is a starting point for a Flutter application.
+- Flutter documentation: https://api.flutter.dev/flutter/material/TextField-class.html
+- Screenshots:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-![1](https://user-images.githubusercontent.com/71443800/230758322-d4d1c764-4fea-477a-855a-c2c17745eb63.jpg)
-![2](https://user-images.githubusercontent.com/71443800/230758325-1c440879-1458-4042-bd5e-289b2b9bf3d4.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71443800/230758521-c96923ff-cba6-44f5-8d0e-f48567f626c3.jpg" width="200"/>
+  <img src="https://user-images.githubusercontent.com/71443800/230758589-01d3e911-24d0-4f59-bb42-d7db2b4e15c3.jpg" width="200"/>
+</p>
 
